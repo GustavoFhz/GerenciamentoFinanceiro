@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# ASP.NET
+appsettings.Development.json
+*.db
+*.log
+
+# Rider / VS Code
+.idea/
+.vscode/
