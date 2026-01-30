@@ -63,6 +63,10 @@ dotnet run
 
 ```
 
+## 📚 Contexto
+
+Projeto desenvolvido como parte de um curso, servindo como base de aprendizado.
+A partir dele, realizei adaptações e melhorias próprias.
 
 
 ---
